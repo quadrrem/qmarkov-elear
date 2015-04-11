@@ -1,6 +1,8 @@
 # markov-elear
 
-A Clojure library designed to ... well, that part is up to you.
+Twitterbot to post mashup poems with the help of a markov chain.
+Tutorial from:
+https://howistart.org/posts/clojure/1
 
 ## Usage
 
